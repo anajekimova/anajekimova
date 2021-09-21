@@ -5,6 +5,8 @@
 I am an aspiring software developer. Currently working hard on developing my C# skills, but I am always open to learning something new.
 .
 --> 
+I am an aspiring software developer. Currently working hard on developing my C# skills, but I am always open to learning something new.
+
 Skills:
 
     C#/.NET, Ruby
