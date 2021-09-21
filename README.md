@@ -16,5 +16,5 @@ Skills:
     Design Patterns
     HTML & CSS, VueJS, TypeScript & NodeJS basics
 
-📫 You can reach me on: ana.jekimova@gmail.com |www.linkedin.com/in/ana-dika
+📫 You can reach me on: ana.jekimova@gmail.com | www.linkedin.com/in/ana-dika
 
