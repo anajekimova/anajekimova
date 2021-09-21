@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Ana Dika! 👋
 
 <!--
 **anajekimova/anajekimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring software developer. Currently working hard on developing my C# skills, but I am always open to learning something new.
+.
+--> 
+Skills:
 
-Here are some ideas to get you started:
+    C#/.NET, Ruby
+    Relational Databases & SQL
+    HTTP & WEB API
+    Unit Testing
+    Test Driven Development
+    Clean Code, SOLID
+    Design Patterns
+    HTML & CSS, VueJS, TypeScript & NodeJS basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me on: ana.jekimova@gmail.com |www.linkedin.com/in/ana-dika
+
