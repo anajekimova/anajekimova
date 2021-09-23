@@ -9,7 +9,7 @@ I am an aspiring software developer. Currently working hard on developing my C# 
 
 Skills:
 
-    C#/.NET, Ruby
+    C#/.NET
     Relational Databases & SQL
     HTTP & WEB API
     Unit Testing
